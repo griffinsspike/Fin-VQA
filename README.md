@@ -16,7 +16,7 @@ Borsa İstanbul (BIST30 / BIST100) hisseleri için geliştirilmiş, gerçek zama
 ![AI Analysis](assets/screenshots/Screenshot%202026-05-13%20222841.png)
 
 ### Yapay Zeka Sohbet
-![AI Chat](assets/screenshots/Screenshot%2026-05-13%222954.png)
+![AI Chat](assets/screenshots/Screenshot%2026-05-13%2022954.png)
 
 ### BIST Genel Bakış
 ![BIST Overview](assets/screenshots/Screenshot%202026-05-13%20223005.png)
