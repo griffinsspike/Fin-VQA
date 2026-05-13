@@ -7,7 +7,7 @@ Borsa İstanbul (BIST30 / BIST100) hisseleri için geliştirilmiş, gerçek zama
 ## Ekran Görüntüleri
 
 ### Giriş Ekranı
-![Auth Screen](assets/screenshots/Screenshot 2026-05-13 222619.png)
+![Auth Screen](assets/screenshots/Screenshot%202026-05-13%20222619.png)
 
 ### Ana Terminal
 ![Main Terminal](assets/screenshots/terminal.png)
