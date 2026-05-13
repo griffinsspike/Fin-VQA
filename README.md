@@ -23,7 +23,6 @@ Borsa İstanbul (BIST30 / BIST100) hisseleri için geliştirilmiş, gerçek zama
 ### BIST Genel Bakış
 ![BIST Overview](assets/screenshots/Screenshot%202026-05-13%20223005.png)
 </details>
----
 
 ## Özellikler
 
