@@ -216,8 +216,3 @@ Fin-VQA/
 
 Bu uygulama yalnızca bilgilendirme ve araştırma amacıyla geliştirilmiştir. Üretilen analizler ve raporlar yatırım tavsiyesi niteliği taşımaz. Herhangi bir finansal karar vermeden önce kendi araştırmanızı yapmanız ve gerekirse lisanslı bir yatırım danışmanına başvurmanız önerilir.
 
----
-
-## Lisans
-
-MIT
