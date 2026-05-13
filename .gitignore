@@ -1,0 +1,45 @@
+# Environment variables — never commit real credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Design artifacts / mockups
+*.html
+design_bundle/
+design_extracted.html
+claude_design.html
+
+# Recovery / scratch files
+recovery_app.py
+
+# IDE & OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Claude Code internal
+.claude/
