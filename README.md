@@ -3,7 +3,7 @@
 Borsa İstanbul (BIST30 / BIST100) hisseleri için geliştirilmiş, gerçek zamanlı piyasa verilerini Google Gemini'nin çok modlu yapay zekasıyla birleştiren bir analiz terminali. Mum grafik görüntüsünü, teknik göstergeleri, temel metrikleri ve haber akışını tek bir istemde Gemini'ye göndererek Türkçe yapılandırılmış analiz raporu üretir.
 
 ---
-## Proje Videosu: [OneDrive linki](https://ostimteknikuniversitesi-my.sharepoint.com/:v:/g/personal/230212013_ostimteknik_edu_tr/IQDsq6fN-CURSZPfPBB5kUtEAbZ-IyL3LFRCnebdta1f8nc)
+## Proje Videosu: [YouTube linki](https://youtu.be/YNBs_1QvMl8?si=TnTaAFQvfcqkUV34)
 
 ## Ekran Görüntüleri
 <details>
